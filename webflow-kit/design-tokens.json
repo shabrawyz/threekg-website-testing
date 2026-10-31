@@ -1,28 +1,34 @@
 {
   "colors": {
-    "background": "#ffffff",
-    "ink": "#121212",
-    "muted": "#707070",
-    "line": "rgba(16,16,16,0.14)",
-    "accent": "#ff3b00",
-    "inverse-background": "#101010",
-    "inverse-ink": "#ffffff"
+    "Background": "#ffffff",
+    "Ink": "#121212",
+    "Muted": "#707070",
+    "Line": "rgba(16,16,16,0.14)",
+    "Accent": "#ff3b00",
+    "Inverse Background": "#101010",
+    "Inverse Ink": "#ffffff"
   },
   "fonts": {
     "sans": {"family": "Instrument Sans", "weights": [400, 500, 600], "source": "../assets/fonts/"},
     "mono": {"family": "IBM Plex Mono", "weights": [500], "source": "../assets/fonts/"}
   },
   "layout": {
-    "page-padding": "clamp(1.25rem, 4vw, 4rem)",
-    "content-max": "none",
-    "base-font-size": "16px",
-    "base-line-height": "1.5"
+    "Page Padding": "clamp(1.25rem, 4vw, 4rem)",
+    "Content Max": "none",
+    "Base Font Size": "1rem",
+    "Base Line Height": "150%"
   },
   "breakpoints": {
     "desktop": "992px and above",
     "tablet": "768px–991px",
     "mobile-landscape": "480px–767px",
     "mobile-portrait": "479px and below"
+  },
+  "variableModes": {
+    "Desktop": {"Page Padding": "4rem"},
+    "Tablet": {"Page Padding": "2rem"},
+    "Mobile Landscape": {"Page Padding": "1.5rem"},
+    "Mobile Portrait": {"Page Padding": "1.25rem"}
   },
   "sourceOfTruth": ["../assets/style.css", "../assets/profile.css", "../assets/website.css"]
 }

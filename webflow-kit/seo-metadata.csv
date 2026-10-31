@@ -1,0 +1,9 @@
+"Page","Slug","Meta Title","Meta Description","Index","Open Graph Requirement"
+"Home","/","3KG — Strategy first. Impact always.","Six connected disciplines, from strategy through execution. Brand, Design, Campaigns, Production, Tech and Xperience. Cairo, Egypt.","Yes","1200×630 JPEG or PNG"
+"Projects Template","/projects/{slug}","{Name} — 3KG","{Title}. Explore the strategy, creative work and project outcome by 3KG.","Yes","CMS-bound 1200×630 JPEG or PNG"
+"Style Guide","/style-guide","3KG Style Guide","Design system and component reference for the 3KG Webflow template.","No","Not required"
+"Instructions","/instructions","3KG Template Instructions","Editing guide for the 3KG Webflow template, CMS, components and interactions.","No","Not required"
+"Licenses","/licenses","3KG Template Licenses","Font, image, video and graphical asset licensing information.","No","Not required"
+"Changelog","/changelog","3KG Template Changelog","Release history for the 3KG Webflow template.","No","Not required"
+"404","404","Page not found — 3KG","The page you requested could not be found. Return to the 3KG studio website.","No","Not required"
+

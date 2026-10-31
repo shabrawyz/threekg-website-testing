@@ -15,6 +15,15 @@ Webflow is the recommended target for this site because the project needs struct
 - `section-map.md` — native Component structure and editable controls
 - `interactions.md` — behavior parity checklist
 - `generate-cms.mjs` — regenerates both CSV files from `assets/profile-data.js`
+- `webflow-template-spec.md` — Webflow submission-aligned build specification
+- `cms-import-guide.md` — exact Collection import and binding workflow
+- `style-guide-requirements.md` — required native Style Guide page
+- `instructions-page.md` — editor-facing instructions content
+- `licenses-page.md` — required licensing copy and rights audit
+- `compliance-checklist.csv` — prepared, pending and blocked requirements
+- `asset-audit.md` — Webflow asset size and optimization findings
+- `changelog-page.md` — utility-page release history content
+- `seo-metadata.csv` — page titles, descriptions and indexing rules
 
 ## Assembly order
 
