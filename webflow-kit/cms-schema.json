@@ -1,0 +1,28 @@
+{
+  "collection": "Projects",
+  "slug": "projects",
+  "fields": [
+    {"name": "Name", "type": "Name", "required": true},
+    {"name": "Slug", "type": "Slug", "required": true},
+    {"name": "Category", "type": "Option", "required": true},
+    {"name": "Title", "type": "Plain text", "required": true},
+    {"name": "Body", "type": "Rich text", "required": true},
+    {"name": "Client", "type": "Plain text"},
+    {"name": "Year", "type": "Plain text"},
+    {"name": "Market", "type": "Plain text"},
+    {"name": "Scope", "type": "Plain text"},
+    {"name": "Hero Image", "type": "Image"},
+    {"name": "Hero Alt", "type": "Plain text"},
+    {"name": "Gallery Images", "type": "Multi-image"},
+    {"name": "Gallery Alt Text", "type": "Plain text"},
+    {"name": "Story", "type": "Rich text"},
+    {"name": "Motion URL", "type": "Link"},
+    {"name": "Motion Poster", "type": "Image"},
+    {"name": "Motion Title", "type": "Plain text"},
+    {"name": "Source URL", "type": "Link"},
+    {"name": "Sort Order", "type": "Number"},
+    {"name": "Published", "type": "Switch"}
+  ],
+  "categoryOptions": ["Brand", "Design", "Campaigns", "Production", "Tech", "Xperience", "Selected Work"]
+}
+

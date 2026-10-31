@@ -12,6 +12,10 @@ Private testing repository for the current 3KG website review.
 
 This contains the profile-aligned website and portfolio refresh. It is a review environment; no public deployment is configured. The original site and Git history are maintained in [MustafaX3KG/threekg-website](https://github.com/MustafaX3KG/threekg-website).
 
+## Webflow CMS migration kit
+
+The [Webflow migration package](webflow-kit/README.md) contains CMS-ready project data, design tokens, asset mappings, component specifications and interaction requirements for rebuilding this design as a fully editable Webflow site.
+
 ## Structure
 - `index.html` — work cards, studio, services, contact and navigation
 - `assets/style.css` — design tokens (`:root` block has colors/fonts)
