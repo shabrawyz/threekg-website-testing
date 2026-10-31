@@ -10,9 +10,8 @@
 "Interactions","Native Webflow GSAP with controls and reduced motion","Requirements supplied","Build in Interactions panel","Prepared"
 "Accessibility","Semantic order, alt text, keyboard and focus","Source data supplied","Run Webflow Audit and manual tests","Prepared"
 "SEO","Titles, descriptions, OG and 404","Base metadata supplied","Bind CMS metadata and upload OG images","Prepared"
-"Assets","Each upload below 4 MB","Audit identifies violations","Compress two videos and optimize media","Blocked"
+"Assets","Each upload below 4 MB","Temporary compliant videos supplied","Replace placeholders later with final compressed videos","Ready"
 "Assets","Marketplace resale rights","License audit supplied","Provide written rights or replace branded assets","Blocked for Marketplace"
 "Settings","Favicon, webclip, responsive images, minification","Source favicon supplied","Configure Project Settings","Prepared"
 "Custom code","No general custom code","Native replacement specified","Confirm no unapproved embeds/scripts","Prepared"
 "QA","Responsive and PageSpeed checks","Widths specified","Test published Webflow staging URL","Pending native build"
-
