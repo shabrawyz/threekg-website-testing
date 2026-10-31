@@ -6,6 +6,10 @@ Private testing repository for the current 3KG website review.
 
 **Repository:** https://github.com/shabrawyz/threekg-website-testing
 
+## Live preview
+
+**Preview:** https://threekg-website-preview.wrykite12.chatgpt.site
+
 This contains the profile-aligned website and portfolio refresh. It is a review environment; no public deployment is configured. The original site and Git history are maintained in [MustafaX3KG/threekg-website](https://github.com/MustafaX3KG/threekg-website).
 
 ## Structure
